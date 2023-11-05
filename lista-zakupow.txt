@@ -1,2 +1,3 @@
 chleb 3.5
 jajka 5.5
+maslo 5.5
